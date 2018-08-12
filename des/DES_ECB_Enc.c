@@ -2,8 +2,6 @@
  *  DES_ECB Encryption
  *	
  *	Author : Omar Zairi
- *
- *	GMU CS-468
  * 
  *	Gets command line arguments
  *	 -k Key File
